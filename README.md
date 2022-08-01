@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **r02.sudhanshu@gmail.com**
 
-- ⚡ Fun fact **Sometimes I sleep less than 4 hours a day and sometimes it is<br />more than 10 hours.**
+- ⚡ Fun fact **Sometimes I sleep less than 4 hours a day and sometimes it is more than 10 hours.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
