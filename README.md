@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=glitched-sudhanshu&show_icons=true&locale=en&layout=compact" alt="glitched-sudhanshu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glitched-sudhanshu&&show_icons=true&title_color=000000&icon_color=d32f2f&text_color=9a0007&bg_color=808e95" alt="glitched-sudhanshu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glitched-sudhanshu&theme=dark" alt="glitched-sudhanshu" /></p>
