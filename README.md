@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on **Music Player App**
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 Currently I'm learning **iOS App Development**
 
 - 💬 Ask me about **coding and tech stuffs**
 
 - 📫 How to reach me **r02.sudhanshu@gmail.com**
-
-- ⚡ Fun fact **Sometimes I sleep less than 4 hours a day and sometimes it is more than 10 hours.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
