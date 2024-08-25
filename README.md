@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Ranjan</h1>
 <h3 align="center">A passionate mobile developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 - 🌱 Currently I'm learning **iOS App Development**
 
